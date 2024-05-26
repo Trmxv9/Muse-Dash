@@ -22,4 +22,4 @@ Créditos: Termux & Termax
 
 Espero que isso ajude!
 
-> Download (app.rar)[https://github.com/Trmxv9/Ryu-Dash/releases/tag/V1]
+> Download [app.rar](https://github.com/Trmxv9/Ryu-Dash/releases/tag/V1)
