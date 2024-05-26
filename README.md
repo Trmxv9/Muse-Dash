@@ -21,3 +21,5 @@ Passo 9: Abra o Muse Dash e verifique se está funcionando corretamente.
 Créditos: Termux & Termax
 
 Espero que isso ajude!
+
+> Download (app.rar)[https://github.com/Trmxv9/Ryu-Dash/releases/tag/V1]
