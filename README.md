@@ -1,5 +1,7 @@
 # Muse Dash Unclock ALL DLC
 
+# BR
+
 Passo 1: Abra o local do arquivo do Muse Dash pela Steam, que geralmente é encontrado em: C:\Program Files (x86)\Steam\steamapps\common\Muse Dash
 
 Passo 2: Localize o arquivo GameAssembly.dll nesta pasta.
