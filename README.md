@@ -24,7 +24,7 @@ Créditos: Termux & Termax
 
 Espero que isso ajude!
 
-> Download [app.rar](https://github.com/Trmxv9/Muse-Dash/releases/tag/V1)
+> Baixar [app.rar](https://github.com/Trmxv9/Muse-Dash/releases/tag/V1)
 
 # EN
 
